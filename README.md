@@ -1,5 +1,5 @@
 # pdf-to-csv
-collage project 
+
 import PyPDF2 as pdf
 import re
 import json
